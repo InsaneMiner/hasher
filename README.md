@@ -1,5 +1,5 @@
 # hasher
-Hasher is a project that i have been working on it tests hashes like hashcat
+Hacher tests hashes like hashcat.
 Hasher only supports utf-8 encoding types on files.
 Hasher only supports md5 and sha1.
 There is a list of 10 million passwords in the repo and a big list of english words.
