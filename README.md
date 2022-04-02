@@ -5,7 +5,7 @@ Hasher only supports md5 and sha1.<br>
 There is a list of 10 million passwords in the repo and a big list of english words.<br>
 you can use rockyou.txt but please convert it to utf-8
 with this command:<br>
-iconv -f ISO-8859-1 -t UTF-8 rockyou.txt > rockyou_utf8.txt
+`iconv -f ISO-8859-1 -t UTF-8 rockyou.txt > rockyou_utf8.txt`
 
 ----------------------------------------------------------------------------
 ### how to use
