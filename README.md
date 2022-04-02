@@ -9,6 +9,6 @@ iconv -f ISO-8859-1 -t UTF-8 rockyou.txt > rockyou_utf8.txt
 
 ----------------------------------------------------------------------------
 ### how to use
-python3 hasher.py wordlist.txt hashes.txt sha1 outputfile.csv<br>
+`python3 hasher.py wordlist.txt hashes.txt sha1 outputfile.csv`<br>
 or <br>
-python3 hasher.py wordlist.txt hashes.txt md5 outputfile.csv
+`python3 hasher.py wordlist.txt hashes.txt md5 outputfile.csv`
